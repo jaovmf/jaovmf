@@ -1,15 +1,22 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# Olá, eu sou o João! 👋
+<p align="left"> 
+Olá, eu sou o João Victor! 👋, sou<strong> Desevolvedor JavaScript</strong>.<br>
+Atualmente, trabalho como desenvolvedor no <strong>Grupo Koch S/A</strong>.
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>Desenvolvo em JavaScript, mas tenho conhecimento em C# e PHP.</strong>
+</p>
 
-## 🚀 Sobre mim
-Eu sou desenvolvedor full-stack, atualmente cursando Análise e Desenvolvimento de Sistemas.
-## 🛠 Habilidades
-Conhecimento em C#, JavaScript, Node, React, Docker, Jenkins, OracleDB.
+<p align="left">
+  💼 Ferramentas: <strong>No momento, trabalho com NodeJS e ReactJS.</strong>
+</p>
 
-## Outras informações
-👩‍💻 Trabalho atualmente no Grupo Koch S/A.
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://criarmeulink.com.br/u/1678468618"/></a>
 
-👯‍♀️ Procuro sempre colaborar e agregar na equipe em que trabalho.
-## 🔗 LinkedIn :
-[![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/jo%C3%A3o-victor-marcon-0ba941232/)
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-marcon-0ba941232/"/></a>
+</p> 
