@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Olá, eu sou o João Victor! 👋, sou<strong> Desevolvedor JavaScript</strong>.<br>
-Atualmente, trabalho como desenvolvedor no <strong>Grupo Koch S/A</strong>.
+Olá, eu sou o João Victor! 👋, sou<strong> Desenvolvedor JavaScript</strong>.<br>
+Atualmente, trabalho como Programador no <strong>Grupo Koch S/A</strong>.
 </p>
 
 <p align="left">
-  🦄 <strong>Desenvolvo em JavaScript, mas tenho conhecimento em C# e PHP.</strong>
+  🦄 <strong>Desenvolvo em JavaScript, mas tenho conhecimento em C#, Python e PHP.</strong>
 </p>
 
 <p align="left">
