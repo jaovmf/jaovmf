@@ -6,11 +6,11 @@ Atualmente, trabalho como Programador no <strong>Grupo Koch S/A</strong>.
 </p>
 
 <p align="left">
-  🦄 <strong>Desenvolvo em JavaScript, mas tenho conhecimento em C#, Python e PHP.</strong>
+  🦄 <strong>Desenvolvedor JavaScript, com conhecimento em C#, Python e PHP.</strong>
 </p>
 
 <p align="left">
-  💼 <strong>No momento, trabalho com NodeJS e ReactJS.</strong>
+  💼 <strong>Atualmente trabalhando com NodeJS e ReactJS.</strong>
 </p>
 
 <p align="left">
